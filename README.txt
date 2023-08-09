@@ -8,3 +8,6 @@ difference between heathy and cancerous samples.
 
 Jupyter Notebook Files
 - This file contains that actually jupyter files used to create the pdf.
+
+DifferentialGeneExpression
+- Files required to find the top 200 most differentially expressed genes.
